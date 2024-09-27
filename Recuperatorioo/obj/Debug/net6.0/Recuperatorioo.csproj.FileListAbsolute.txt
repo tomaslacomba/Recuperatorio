@@ -1,0 +1,4 @@
+C:\Users\tlacomba\source\repos\Recuperatorioo\Recuperatorioo\obj\Debug\net6.0\Recuperatorioo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlacomba\source\repos\Recuperatorioo\Recuperatorioo\obj\Debug\net6.0\Recuperatorioo.AssemblyInfoInputs.cache
+C:\Users\tlacomba\source\repos\Recuperatorioo\Recuperatorioo\obj\Debug\net6.0\Recuperatorioo.AssemblyInfo.cs
+C:\Users\tlacomba\source\repos\Recuperatorioo\Recuperatorioo\obj\Debug\net6.0\Recuperatorioo.csproj.CoreCompileInputs.cache
